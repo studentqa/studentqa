@@ -1,7 +1,4 @@
-- 👋 Hi, I’m hemantkumar
-- 👀 I’m interested in DataScience
-- 🌱 I’m currently learning Business Analytics
-- 💞️ I’m looking to collaborate on upcoming career transition
+- 
 
 
 <!---
